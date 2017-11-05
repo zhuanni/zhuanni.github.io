@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-04T06:26:44.000Z</updated>
+  <updated>2017-11-05T06:29:18.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,20 +17,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>just test</title>
-    <link href="http://yoursite.com/2017/11/04/just-test/"/>
-    <id>http://yoursite.com/2017/11/04/just-test/</id>
-    <published>2017-11-04T06:25:03.000Z</published>
-    <updated>2017-11-04T06:26:44.000Z</updated>
+    <title>搭建个人博客</title>
+    <link href="http://yoursite.com/2017/11/05/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2017/11/05/搭建个人博客/</id>
+    <published>2017-11-05T06:11:21.000Z</published>
+    <updated>2017-11-05T06:29:18.000Z</updated>
     
-    <content type="html"><![CDATA[<p>hello,it’s my first test.xixi :)</p>]]></content>
+    <content type="html"><![CDATA[<p>哈，这是我的第一篇博客~</p><p>上个周末突发奇想要搭建个个人博客，于是就开始从头动手了。mac买来之后还从来没有装过node，所以这次从安装nodejs开始，按照<a href="http://www.jianshu.com/p/13e64c9e2295" target="_blank" rel="external">教程</a>来的，这个教程写的很好，中间基本没有出现过啥问题，很顺利的完成了，非常感谢作者。</p><p>搭建好博客我有些郁闷，不知道以后写些啥。自觉技术不好，不敢乱分享我那拙劣的前端技术。其他的特长也没有……所以，我可能会想到什么写什么，没有具体的定位了。随便记录下我那乱七八糟的人生吧，就酱~</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;hello,it’s my first test.xixi :)&lt;/p&gt;
-
+        &lt;p&gt;哈，这是我的第一篇博客~&lt;/p&gt;
+&lt;p&gt;上个周末突发奇想要搭建个个人博客，于是就开始从头动手了。mac买来之后还从来没有装过node，所以这次从安装nodejs开始，按照&lt;a href=&quot;http://www.jianshu.com/p/13e64c9e2295&quot; targ
       
     
     </summary>
@@ -43,7 +43,7 @@
     <link href="http://yoursite.com/2017/11/04/hello-world/"/>
     <id>http://yoursite.com/2017/11/04/hello-world/</id>
     <published>2017-11-04T05:38:28.000Z</published>
-    <updated>2017-11-04T05:38:28.000Z</updated>
+    <updated>2017-11-05T05:58:39.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
     
