@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-05T06:29:18.000Z</updated>
+  <updated>2018-05-13T05:52:21.344Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>工作的成长</title>
+    <link href="http://yoursite.com/2018/05/13/workExperience/"/>
+    <id>http://yoursite.com/2018/05/13/workExperience/</id>
+    <published>2018-05-13T03:58:21.000Z</published>
+    <updated>2018-05-13T05:52:21.344Z</updated>
+    
+    <content type="html"><![CDATA[<p>工作了四年，跳槽过几次，只要你认真对待每一段经历，你都会有很大的收获，这点我深有体会，也是我写这篇文章想表达的东西。</p><p>刚开始毕业的第一份工作，我是很懵懂的。经历过培训，顺利进入公司实习，我的脑子只有学习技术知识，完成工作内容。第一家公司的工作是流水线式的，所以我就是其中的一颗螺丝钉，工作内容也是有设计师设计好了的，我只要对着设计稿实现出来即可，从来不会去思考为什么要这样设计，好处是什么，缺点又是什么。我都不管，我只管去实现它，做出来，我的任务就完成。当时的工作强度很大，任务永远完成不了，忙到快成为工作机器人，工资发到银行卡就像是跟我无关的事情，因为我会忘记哪天发工资，工资也没有时间花。总结来说，这段时间是我魔鬼训练的一年，技能从无到有，养成良好的规范，不停的编码编码编码。</p><p>后来因为爱情，来到现在的城市。为了不让我这么辛苦，我转行了，做了高速公路收费员，做微笑服务。是的，每天只要微笑收钱就行了，跟我的专业，跟我之前的工作毫不相干。我以为我会安心的做下去，至少脱离了程序员这个苦逼的工作了，我成功脱离了，我应该开心的。但是，我没有。过了3个月，我印证了自己的心，我要做回程序员。那才是我为之哭，为之笑，有失落，有成就感，让我能看得到我的喜怒哀乐和畅快情仇的工作。然后我毅然离职，重新做回程序员。这段经历，帮助我认清了自己的内心，当然，也认识了几个新的可爱的小伙伴。</p><p>第二次做回程序员，去了一个创业公司。开始我还是以一颗螺丝钉的角色去工作，但是却发现这根本行不通。因为是创业公司，没有严格的开发流程，意味着没有人会事先将一切都设计好，那么我的角色就不仅仅只是码农，我需要担当起需求分析和设计。这让我的工作思维转变了，我突然意识到我不是编码机器，我应该有思想。但是此时，我的思想并不成熟，也没有需求和设计的经历，可以说我不会做这件事，我除了会死编码，我根本就不会需求分析和设计。于是，摸爬滚打了2年后，多多少少算是入了门，在思维上转变了对自己工作角色的定位。此时，内心又开始躁动了，不满足于现状，我想要更好，想再回到大城市，想要当初第一份工作那样浓郁的工作氛围。所以，我再次跳槽走了，去了隔壁的大城市，去了大公司。那么我的爱情怎么办？就只能每天来回往返大城市和小城市啦。</p><p>每天早上去大城市，晚上回小城市，听起来很疯狂，跨城市兼跨省。我爱这种感觉，我觉得我在努力的活着。这次的工作，我觉得自己慢慢上道了，我知道该怎么进行需求分析，该怎么人性化的设计，站在用户的角度去看待问题。我的思维从码农转变到了怎么去做好一个产品的思考，然后我发现我还乐在其中。接受了一个任务后，我会先思考，先质疑，当然，领导支持和鼓励我这么做。</p><p>我很开心，在每个转折点和低落期，我勇敢的作出了遵从自己内心的选择，不后悔。从初进职场的懵懂，到现在慢慢的成熟。感谢自己。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;工作了四年，跳槽过几次，只要你认真对待每一段经历，你都会有很大的收获，这点我深有体会，也是我写这篇文章想表达的东西。&lt;/p&gt;
+&lt;p&gt;刚开始毕业的第一份工作，我是很懵懂的。经历过培训，顺利进入公司实习，我的脑子只有学习技术知识，完成工作内容。第一家公司的工作是流水线式的，所
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>搭建个人博客</title>
     <link href="http://yoursite.com/2017/11/05/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2017/11/05/搭建个人博客/</id>
     <published>2017-11-05T06:11:21.000Z</published>
-    <updated>2017-11-05T06:29:18.000Z</updated>
+    <updated>2018-05-13T03:53:09.469Z</updated>
     
     <content type="html"><![CDATA[<p>哈，这是我的第一篇博客~</p><p>上个周末突发奇想要搭建个个人博客，于是就开始从头动手了。mac买来之后还从来没有装过node，所以这次从安装nodejs开始，按照<a href="http://www.jianshu.com/p/13e64c9e2295" target="_blank" rel="external">教程</a>来的，这个教程写的很好，中间基本没有出现过啥问题，很顺利的完成了，非常感谢作者。</p><p>搭建好博客我有些郁闷，不知道以后写些啥。自觉技术不好，不敢乱分享我那拙劣的前端技术。其他的特长也没有……所以，我可能会想到什么写什么，没有具体的定位了。随便记录下我那乱七八糟的人生吧，就酱~</p>]]></content>
     
@@ -43,7 +65,7 @@
     <link href="http://yoursite.com/2017/11/04/hello-world/"/>
     <id>http://yoursite.com/2017/11/04/hello-world/</id>
     <published>2017-11-04T05:38:28.000Z</published>
-    <updated>2017-11-05T05:58:39.000Z</updated>
+    <updated>2018-05-13T05:51:24.190Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>]]></content>
     
